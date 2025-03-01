@@ -1,2 +1,12 @@
-cucumberOptions\TestNGTestRunner.class
-stepDefinitions\GreenKartStepDefinitions.class
+pageObjects\OffersPage.class
+stepDefinitions\OffersPageStepDefinitions.class
+utils\TestContextSetup.class
+cucumberOptions\JunitTestRunnerTest.class
+stepDefinitions\LandingPageStepDefinitions.class
+pageObjects\CheckoutPage.class
+pageObjects\PageObjectManager.class
+utils\GenericUtils.class
+stepDefinitions\CheckoutPageStepDefinition.class
+stepDefinitions\Hooks.class
+pageObjects\LandingPage.class
+utils\TestBase.class
